@@ -1,0 +1,3 @@
+[submodule "C_hash"]
+	path = C_hash
+	url = https://github.com/Darkfrobozz/C_hash_table.git
